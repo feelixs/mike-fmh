@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi there, welcome to my GitHub
 
-[My Website](https://mike-fmh.github.io)
+Visit [My Website](https://mike-fmh.github.io) to learn more about me!
 <!--
 **mike-fmh/mike-fmh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
